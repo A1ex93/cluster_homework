@@ -31,4 +31,4 @@ HAproxy должен балансировать только тот http-тра�
 
 Файл с конфингом HAProxy для первого задания:
 
-[Конфиг первого задания](https://github.com/A1ex93/cluster_homework/blob/main/task2_haproxy.cfg)
+[Конфиг второго задания](https://github.com/A1ex93/cluster_homework/blob/main/task2_haproxy.cfg)
